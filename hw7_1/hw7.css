@@ -1,0 +1,73 @@
+.first-block-1{
+    float: left;
+    margin: -40px;
+}
+.first-block-2{
+    float: right;
+    margin: -40px;
+}
+
+.first{
+    clear: both;
+    padding: 40px;
+
+}
+.clearfix{
+    clear: both;
+}
+
+.second-block-1{
+    float: left;
+    margin: -40px
+}
+.second-block-2{
+    float: right;
+    margin: -40px 110px
+}
+.second-block-3{
+    float: right;
+    margin: -40px 60px;
+   
+}
+.second-block-4{
+    float: right;
+    margin: -40px 10px;
+   
+}
+.second-block-5{
+    float: right;
+    margin: -40px ;
+   
+}
+.second{
+    clear: both;
+    padding: 40px;
+ 
+}
+.third-block-2{
+    float: left;
+    margin: -80px 50px;}
+
+.third-block-3{
+    float: right;
+    margin: -80px 0px;}
+
+.third-block-4
+{
+        float: right;
+    margin:  -80px 50px;}
+        
+
+.third{
+    
+    clear: both;
+}
+.container{
+    background-color: rgb(99, 95, 88);
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 600px;
+    
+}
+
+
