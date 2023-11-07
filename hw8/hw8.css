@@ -1,0 +1,170 @@
+
+
+.body{
+    max-width: 1920px;
+    height: 1600px;
+    background: rgb(220, 232, 246);
+    margin: 0 auto;
+    font-family: roboto ;
+
+}
+.container{
+    width:  1920px;
+    height: 400px;
+    margin: 0 auto ;
+    background: #b6c7eb;
+ }
+.hpage{
+display: inline-flex;
+align-items: flex-start;
+gap: 42px;
+text-align: center;
+margin-right: 29px;}
+.text-hp{
+    margin-left: 20%;
+}
+
+.read{
+ width: 125px;
+height: 40px;
+background: #34547A;
+position: relative;
+left: 100px; 
+top: 100px;
+text-align: center;
+
+}
+.me{
+padding:0 centre;
+}
+.des{
+width: 541px;
+height: 45px;
+flex-shrink: 0;
+position: relative;
+left: 100px;
+top: 10px;
+
+
+}
+.design{
+    color: #000;
+font-family: Roboto;
+font-size: 48px;
+font-style: normal;
+font-weight: 500;
+line-height: 78px;
+}
+.lorem{
+    width: 540px;
+height: 67px;
+flex-shrink: 0;
+position: relative;
+left: -40px;
+top: 50px;
+}
+.tlorem{
+ color: #727272;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 164.063%; /* 26.25px */
+position: relative;
+left: 140px;
+}
+.text
+{
+color: #FFF;
+font-family: Roboto;
+font-size: 21px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;}
+.about {
+    width: 1200 px;
+    height: 300px;
+    margin: 0 auto;
+
+}
+.aboutme {
+    text-align: center;
+    font-size: 40px;
+}
+.aboutme-text{
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.card-items{
+width: 1920px;
+height: 180px;
+flex-shrink: 0;
+background: #34547A;
+margin: 0 auto ;}
+
+.card-container{
+padding: 40px ;
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));}
+.card {
+    width: 71px;
+    height: 44px;
+ 
+   }
+
+.card-image {
+margin-left: 108px;
+display: flex ;
+align-items: center;
+
+    
+}
+.card-content {
+    
+max-width: 100%;
+height: auto;
+margin-left: 9px;
+bottom: 75px;
+color: #eef1f6;}
+.after-card{
+    text-align: center;
+    width: 1920px;
+    height: 40px;
+}
+.after-cardtext{
+    text-align: center;
+    width: 600px;
+    height: 40px;
+    padding: 14px 42pc;
+}
+
+.video-container{
+   text-align: center;
+   margin: 50px;
+
+}
+.footer{
+    width: 1920px;
+    height: 100px;
+    background: #34547A;
+    margin: 0 auto;
+    
+    
+}
+.serhii{
+color: aliceblue;
+font-size: 21px;
+margin-left: 100px;
+
+}
+.rights{
+color: white;
+font-size: 20px;
+margin-left: 100px;
+
+}
+
+
+
